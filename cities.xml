@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cities>
+  <city id="556700776135249" name="Costrena" nation="776" nation_uid="3332894622472" />
+  <city id="556713661037140" name="Parenzo" nation="776" nation_uid="3332894622472" />
+  <city id="556722250971734" name="Salona" nation="776" nation_uid="3332894622472" />
+  <city id="556735135873625" name="Giugnano" nation="776" nation_uid="3332894622472" />
+  <city id="557314956458720" name="Bencovazzo" nation="776" nation_uid="3332894622472" />
+  <city id="557319251426017" name="Zaravecchia" nation="776" nation_uid="3332894622472" />
+  <city id="557323546393314" name="Buie" nation="776" nation_uid="3332894622472" />
+  <city id="557327841360611" name="Zaule del Carnaro" nation="776" nation_uid="3332894622472" />
+  <city id="557340726262502" name="Punta Lunga" nation="776" nation_uid="3332894622472" />
+  <city id="557353611164393" name="Alessinizza" nation="776" nation_uid="3332894622472" />
+  <city id="557375086000878" name="Creglino" nation="776" nation_uid="3332894622472" />
+  <city id="557392265870066" name="Castel Abbadessa" nation="776" nation_uid="3332894622472" />
+  <city id="557396560837363" name="Castelvecchio" nation="776" nation_uid="3332894622472" />
+  <city id="557400855804660" name="Tenin" nation="776" nation_uid="3332894622472" />
+  <city id="557418035673848" name="Albona" nation="776" nation_uid="3332894622472" />
+  <city id="557422330641145" name="Porto Narenta" nation="776" nation_uid="3332894622472" />
+  <city id="557426625608442" name="Valsantamarina" nation="776" nation_uid="3332894622472" />
+  <city id="557443805477630" name="Almissa" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" />
+  <city id="557448100444927" name="Abbazia" nation="776" nation_uid="3332894622472" />
+  <city id="557452395412224" name="Pisino" nation="776" nation_uid="3332894622472" />
+  <city id="557456690379521" name="Alberi" nation="776" nation_uid="3332894622472" />
+  <city id="557465280314115" name="Porto Tolero" nation="776" nation_uid="3332894622472" />
+  <city id="557469575281412" name="Possedaria" nation="776" nation_uid="3332894622472" />
+  <city id="557473870248709" name="Prolosaz" nation="776" nation_uid="3332894622472" />
+  <city id="557478165216006" name="Santi Filippo e Giacomo" nation="776" nation_uid="3332894622472" />
+  <city id="557482460183303" name="Rovigno" nation="776" nation_uid="3332894622472" />
+  <city id="557486755150600" name="Segnacco" nation="776" nation_uid="3332894622472" />
+  <city id="557491050117897" name="Signo" nation="776" nation_uid="3332894622472" />
+  <city id="557503935019788" name="Serenine" nation="776" nation_uid="3332894622472" />
+  <city id="557512524954382" name="Epezio" nation="776" nation_uid="3332894622472" />
+  <city id="557521114888976" name="Torre" nation="776" nation_uid="3332894622472" />
+  <city id="557551179660055" name="San Matteo di Liburnia" nation="776" nation_uid="3332894622472" />
+  <city id="557555474627352" name="Visignano" nation="776" nation_uid="3332894622472" />
+  <city id="557576949463837" name="Molini Franceschi" nation="776" nation_uid="3332894622472" />
+  <city id="557581244431134" name="Gimino" nation="776" nation_uid="3332894622472" />
+  <city id="561914866433807" name="Budua" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="586048287675650" name="Cattaro" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="593439926393787" name="Sesana" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="593448516328381" name="Capodistria" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="2791728743050000" name="Buccari" nation="776" nation_uid="3332894622472" />
+  <city id="2791750217886485" name="Ragusa" nation="776" nation_uid="3332894622472" />
+  <city id="2792454592523193" name="Cerreto Istriano" nation="776" nation_uid="3332894622472" />
+  <city id="2792484657294272" name="Fort'Opus" nation="776" nation_uid="3332894622472" />
+  <city id="2792501837163460" name="Brecchia" nation="776" nation_uid="3332894622472" />
+  <city id="2803849140762134" name="Clissa" nation="776" nation_uid="3332894622472" />
+  <city id="2803853435729431" name="Novaglia Nuova" nation="776" nation_uid="3332894622472" />
+  <city id="2805421098792836" name="Dernis" nation="776" nation_uid="3332894622472" />
+  <city id="2805425393760133" name="Ragusavecchia" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" />
+  <city id="2805614372321201" name="Cirquenizza" nation="776" nation_uid="3332894622472" />
+  <city id="2805618667288498" name="Ottocio" nation="776" nation_uid="3332894622472" />
+  <city id="2805622962255795" name="Veglia" nation="776" nation_uid="3332894622472" />
+  <city id="2805627257223092" name="Fasana" nation="776" nation_uid="3332894622472" />
+  <city id="2810733973339225" name="Imoschi" nation="776" nation_uid="3332894622472" />
+  <city id="2824606717708535" name="Castel San Giorgio della Riviera" nation="776" nation_uid="3332894622472" />
+  <city id="2824615307643129" name="Novi in Valdivino" nation="776" nation_uid="3332894622472" />
+  <city id="2827574540110762" name="Vignani" nation="776" nation_uid="3332894622472" />
+  <city id="2827578835078059" name="Polisano" nation="776" nation_uid="3332894622472" />
+  <city id="2827587425012653" name="Dignano" nation="776" nation_uid="3332894622472" />
+  <city id="2832676961259598" name="Pago" nation="776" nation_uid="3332894622472" />
+  <city id="2841580428466279" name="Traù" nation="776" nation_uid="3332894622472" />
+  <city id="3678828468441568" name="Biocinosello" nation="776" nation_uid="3332894622472" />
+  <city id="5583457486100000" name="Scutari" />
+  <city id="5583461781067297" name="Alessio" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="5583487550871079" name="Durazzo" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="5583513320674861" name="Valona" />
+  <city id="5583521910609455" name="Argirocastro" />
+  <city id="5584376609101558" name="Fiume" nation="776" nation_uid="3332894622472" />
+  <city id="5584380904068855" name="Pola" nation="776" nation_uid="3332894622472" />
+  <city id="5584385199036152" name="Zara" nation="776" nation_uid="3332894622472" />
+  <city id="5584389494003449" name="Sebenico" nation="776" nation_uid="3332894622472" />
+  <city id="5584393788970746" name="Spalato" nation="776" nation_uid="3332894622472" />
+  <city id="5586893459937600" language="20" language_uid="85899345940" />
+  <city id="5587142568040826" name="Danzig" nation="771" nation_uid="3311419785987" language="11" language_uid="47244640267" local_region="2000300417" local_region_uid="2982163672999799169" />
+  <city id="5588512662608569" name="Bria dei Furlani" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="5588516957575866" name="Isola" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="5588521252543163" name="Aidussina" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="5588529842477757" name="Prävali" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="5588534137445054" name="Wöllan" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="5588538432412351" name="Cilli" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="5588542727379648" name="Marburg an der Drau" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="5588547022346945" name="Fellsdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="5588551317314242" name="Olsnitz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="23238491791069001" name="Sankt Martin an der Pack" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="24655358552676331" name="Antivari" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="24655362847643628" name="Dulcigno" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="24655367142610925" name="Castelnuovo" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="24655371437578222" name="Teodo" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="24665984301769109" name="Risano" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" latitude="42.305000" longitude="18.414000" />
+  <city id="24674050250352875" name="Castel Lastua" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="24687158490543319" name="Trebinje" nation="759" nation_uid="3259880178423" language="23" language_uid="98784247831" local_region="62013196" local_region_uid="266344648802451212" />
+  <city id="24693210099464792" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="24709801558133103" name="San Pietro de Albis" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="32236499817891565" language="3" language_uid="12884901891" />
+  <city id="32556019614984583" name="Unterdrauburg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32558849998433306" name="Ranziano" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="32558858588367900" name="Gonobitz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32558867178302494" name="Rudolfswerth" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32558871473269791" name="Sternthal" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32558875768237088" name="Cosina" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="32558880063204385" name="Lendva" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32558884358171682" name="Pettau" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32558987437386810" name="Castel Dobra" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="32560482086006166" name="Aich bei Laibach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32564515060298049" name="Corte d'Isola" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="32564588074742098" name="Barkóc" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32564596664676692" name="Windisch Feistritz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32564656794218850" name="Villa Decani" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="32564991801668016" name="Oberradkersburg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32565000391602610" name="Abstall" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32565017571471798" name="Monte Santo" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="32565026161406392" name="Kreuzdorf bei Luttenberg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32565034751340986" name="Csendlak" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32565043341275580" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32565069111079362" name="Krainburg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566052658590375" name="Franz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566061248524969" name="Steindorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566069838459563" name="Rohitsch" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566078428394157" name="Assling" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566087018328751" name="Sankt Georgen bei Cilli" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566095608263345" name="Trifail" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32566104198197939" name="Bántornya" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32573504426850670" name="Lendvahosszúfalu" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32573607506065798" name="Maria Rast" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32574157261879814" name="Rötschach bei Gonobitz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32574651183118969" name="Pirano" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="32576455069383709" name="Cserföld" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="32582841685754348" name="Storach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32584392168948565" name="Zwischenwässern" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32584417938752347" name="Sankt Georgen im Felde" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32584770126070701" name="Freithof" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32590624166496512" name="Kaltenbrunn" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32590637051398403" name="Jauchen" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32590645641332997" name="Stein in Oberkrain" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32590654231267591" name="Moräutsch" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32590667116169482" name="Schönbüchel in Oberkrain" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="32590680001071373" name="Vier bei Neul" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="35867014199209180" name="Santi Quaranta" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+  <city id="47355970114305537" name="Delvina" />
+  <city id="51593844411026516" name="Sirt" />
+  <city id="51593848705993813" name="Tobruk" />
+  <city id="56638176127170591" name="Shahhat" />
+  <city id="98860749788494164" name="Darnah" />
+  <city id="98860827097905510" name="Benghazi" />
+  <city id="103114352255456757" name="Loggiovano" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" />
+  <city id="103130952304059662" name="Umago" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" />
+  <city id="103137777007094595" name="Villachiudi" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" />
+  <city id="103151271794341769" name="Lesina" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" />
+  <city id="103163353537348230" name="San Giorgio" nation="776" nation_uid="3332894622472" />
+  <city id="103163357832315527" name="Ervazza" nation="776" nation_uid="3332894622472" />
+  <city id="103163362127282824" name="Medolino" nation="776" nation_uid="3332894622472" />
+  <city id="103163409371923091" name="Blatta" nation="776" nation_uid="3332894622472" />
+  <city id="103263602369027507" name="Comino" nation="776" nation_uid="3332894622472" />
+  <city id="103263606663994804" nation="776" nation_uid="3332894622472" />
+  <city id="103263610958962101" name="Vallegrande" nation="776" nation_uid="3332894622472" />
+  <city id="103263615253929398" name="San Gabriele" nation="776" nation_uid="3332894622472" />
+  <city id="103263619548896695" name="Cibaccia" nation="776" nation_uid="3332894622472" />
+  <city id="103263623843863992" name="Stagno" nation="776" nation_uid="3332894622472" />
+  <city id="103263628138831289" name="Venezia Piccola" nation="776" nation_uid="3332894622472" />
+  <city id="103263632433798586" name="Fontana di Bestonio" nation="776" nation_uid="3332894622472" />
+  <city id="103263636728765883" name="Isola" nation="776" nation_uid="3332894622472" />
+  <city id="103263641023733180" name="Novanio" nation="776" nation_uid="3332894622472" />
+  <city id="103263645318700477" nation="776" nation_uid="3332894622472" />
+  <city id="103263649613667774" name="Glavizza di Signo" nation="776" nation_uid="3332894622472" />
+  <city id="103263653908635071" name="Val Laurentina" nation="776" nation_uid="3332894622472" />
+  <city id="103263658203602368" name="Scardona" nation="776" nation_uid="3332894622472" />
+  <city id="103263662498569665" name="Vodizze" nation="776" nation_uid="3332894622472" />
+  <city id="103263666793536962" name="Trebocconi" nation="776" nation_uid="3332894622472" />
+  <city id="103263671088504259" name="Sivericchio" nation="776" nation_uid="3332894622472" />
+  <city id="103263675383471556" name="Ragosnizza" nation="776" nation_uid="3332894622472" />
+  <city id="103263679678438853" name="Capocesto" nation="776" nation_uid="3332894622472" />
+  <city id="103263683973406150" name="Bibigne" nation="776" nation_uid="3332894622472" />
+  <city id="103263688268373447" name="Torrette" nation="776" nation_uid="3332894622472" />
+  <city id="103263692563340744" name="Galovazzo" nation="776" nation_uid="3332894622472" />
+  <city id="103263696858308041" name="San Cassiano del Contado" nation="776" nation_uid="3332894622472" />
+  <city id="103263701153275338" name="Zemonico" nation="776" nation_uid="3332894622472" />
+  <city id="103263705448242635" name="Valnera" nation="776" nation_uid="3332894622472" />
+  <city id="103263709743209932" name="Palazzo Bardona" nation="776" nation_uid="3332894622472" />
+  <city id="103263714038177229" name="Predrosi" nation="776" nation_uid="3332894622472" />
+  <city id="103263718333144526" name="Cittanuova" nation="776" nation_uid="3332894622472" />
+  <city id="103263722628111823" name="Calbona di Zara" nation="776" nation_uid="3332894622472" />
+  <city id="103263726923079120" name="Brevilacqua" nation="776" nation_uid="3332894622472" />
+  <city id="103263731218046417" name="Graciaz" nation="776" nation_uid="3332894622472" />
+  <city id="103263735513013714" name="Piegradina" nation="776" nation_uid="3332894622472" />
+  <city id="103263739807981011" name="Pacostiane" nation="776" nation_uid="3332894622472" />
+  <city id="103263744102948308" name="Obrovazzo" nation="776" nation_uid="3332894622472" />
+  <city id="103263748397915605" name="Settepani" nation="776" nation_uid="3332894622472" />
+  <city id="103263752692882902" name="Brigne" nation="776" nation_uid="3332894622472" />
+  <city id="103263756987850199" local_region="24003130" local_region_uid="103092658375639610" />
+  <city id="103263761282817496" local_region="24003130" local_region_uid="103092658375639610" />
+  <city id="103263765577784793" local_region="24003130" local_region_uid="103092658375639610" />
+  <city id="103263769872752090" local_region="24003130" local_region_uid="103092658375639610" />
+  <city id="103263834297261545" name="Lussinpiccolo" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" altitude="15" />
+  <city id="103263838592228842" name="Cherso" nation="776" nation_uid="3332894622472" />
+  <city id="103263842887196139" name="Laurana" nation="776" nation_uid="3332894622472" />
+  <city id="103263847182163436" name="Arbe" nation="776" nation_uid="3332894622472" />
+  <city id="103263851477130733" name="Castelmuschio" nation="776" nation_uid="3332894622472" />
+  <city id="103263855772098030" name="Drasizze" nation="776" nation_uid="3332894622472" />
+  <city id="103263860067065327" name="Delnizza" nation="776" nation_uid="3332894622472" />
+  <city id="103263868656999921" name="Clana" nation="776" nation_uid="3332894622472" />
+  <city id="103263872951967218" name="Fusine di Porta Liburnica" nation="776" nation_uid="3332894622472" />
+  <city id="103263877246934515" name="Lisignano" nation="776" nation_uid="3332894622472" />
+  <city id="103263881541901812" name="Orsera" nation="776" nation_uid="3332894622472" />
+  <city id="103263885836869109" name="Bagnole" nation="776" nation_uid="3332894622472" />
+  <city id="103263890131836406" name="Chersano" nation="776" nation_uid="3332894622472" />
+  <city id="103263894426803703" name="Gallesano" nation="776" nation_uid="3332894622472" />
+  <city id="103263898721771000" name="Villa di Rovigno" nation="776" nation_uid="3332894622472" />
+  <city id="103263903016738297" name="Fontane" nation="776" nation_uid="3332894622472" />
+  <city id="103263907311705594" name="Marzana" nation="776" nation_uid="3332894622472" />
+  <city id="103263911606672891" name="Smogliani" nation="776" nation_uid="3332894622472" />
+  <city id="103263915901640188" name="Pinguente" nation="776" nation_uid="3332894622472" />
+  <city id="103264014685888019" name="Poglizza" nation="776" nation_uid="3332894622472" />
+  <city id="103264018980855316" name="Santa Domenica d'Albona" nation="776" nation_uid="3332894622472" />
+  <city id="103264044750659098" name="Cittanova" nation="776" nation_uid="3332894622472" />
+  <city id="103264684700786351" name="Lagosta" nation="776" nation_uid="3332894622472" inhabitants_range="3" />
+  <city id="103264688995753648" name="Potamia" nation="776" nation_uid="3332894622472" />
+  <city id="103264693290720945" name="Torre di Norino" nation="776" nation_uid="3332894622472" />
+  <city id="103264697585688242" name="Sabbioncello" nation="776" nation_uid="3332894622472" />
+  <city id="103264701880655539" name="Fighèr Grande" nation="776" nation_uid="3332894622472" />
+  <city id="103344777250940807" name="Maravinzi" nation="776" nation_uid="3332894622472" />
+  <city id="103344790135842698" name="Cittanova" nation="776" nation_uid="3332894622472" />
+  <city id="103345468740675624" name="Urata" nation="776" nation_uid="3332894622472" />
+  <city id="103345627654465613" name="Sanvincenti" nation="776" nation_uid="3332894622472" />
+  <city id="150324379381010234" name="Macarsca" nation="776" nation_uid="3332894622472" />
+  <city id="245019968669121629" language="20" language_uid="85899345940" />
+  <city id="245093494214278972" language="20" language_uid="85899345940" />
+  <city id="253440067371296358" language="20" language_uid="85899345940" />
+  <city id="266972173589313991" name="Középbeszterce" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="267043242413177450" name="Wochein Feistritz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="267057785172445092" name="Haidin" nation="755" nation_uid="3242700309235" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="267059099432437974" name="Vipacco" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878366569500779" name="Luttenberg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878370864468076" name="Friedau" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878375159435373" name="Bad Radein" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878379454402670" name="Sankt Nikolai" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878383749369967" name="Unterkötsch" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878388044337264" name="Mahrenberg an der Drau" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878392339304561" name="Hohenmauthen" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878396634271858" name="Gutenstein in Kärnten" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878400929239155" name="Mießdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878405224206452" name="Schwarzenbach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878409519173749" name="Südgrätz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878413814141046" name="Schönstein" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878418109108343" name="Heilenstein" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878422404075640" name="Sachsenfeld" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878426699042937" name="Tüffer" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878439583944828" name="Lichtenwald" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878443878912125" name="Rann" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878448173879422" name="Littai" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878452468846719" name="Möttling" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878456763814016" name="Gottschee" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878461058781313" name="Reifnitz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878465353748610" name="Oberlaibach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878469648715907" name="Postumia" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878473943683204" name="Longatico" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878478238650501" name="San Pietro del Carso" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878482533617798" name="Villa del Nevoso" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878491123552392" name="Ancarano" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="274878495418519689" name="Santa Lucia" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="274878499713486986" name="Portorose" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" />
+  <city id="274878508303421580" name="Vertoiba in Campi Santi" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878512598388877" name="San Pietro di Gorizia" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878516893356174" name="Salcano" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878521188323471" name="Idria" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878525483290768" name="Tolmino" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274878529778258065" name="Feldes" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878534073225362" name="Radmannsdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878538368192659" name="Neumarktl" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878542663159956" name="Bischoflack" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274878546958127253" name="Mannsburg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879384476750168" name="Sauritsch" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879427426423138" name="Sankt Marein bei Erlachstein" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879461786161514" name="Maletschnig" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879504735834484" name="Adorjánfalva" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274879607815049612" name="Wernsee" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879637879820691" name="Süssenberg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879702304330146" name="Putzendorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274879745254003116" name="Mártonhely" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274879771023806898" name="Beaucz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274880007247008233" name="Spielfeld" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274880054491648500" name="Pöltschach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274880196225569301" name="Lendvarózsavölgy" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274880243470209568" name="Lendvaerdő" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274880320779620914" name="Unterhaidin" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274880595657527922" name="Murarév" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274880655787070080" name="Csente" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274880715916612238" name="Szarvaslak" nation="773" nation_uid="3320009720581" language="14" language_uid="60129542158" local_region="2000300414" local_region_uid="760116008307009918" />
+  <city id="274880758866285208" name="Dornau" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274880793226023584" name="Merna" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="43007195" local_region_uid="184714496060701915" />
+  <city id="274881089578767077" name="Commenda" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274881119643538156" name="Radmannsdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274881132528440047" name="Bründl" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274881171183145720" name="Kreßnitz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274886754640631820" name="Sairach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274890963708582880" name="Ragosnitz" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274890968003550177" name="Grajenaberg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274890972298517474" name="Franzdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274890980888452068" name="Pragwald" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274890985183419365" name="Braunschweig" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274890989478386662" name="Rohitsch-Sauerbrunn" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274891002363288553" name="Saldenhofen" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274891006658255850" name="Missling" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274891019543157741" name="Kötsch" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274891036723026929" name="Lendorf bei Marburg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899575118013365" name="Weixelburg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899579412980662" name="Sankt Veit in Unterkrain" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899583707947959" name="Sittich" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899588002915256" name="St. Marein–Sapp" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899592297882553" name="Škofljica" />
+  <city id="274899596592849850" name="Sankt Benedikt" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899600887817147" name="Nieder-Sankt Rupert" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899605182784444" name="Gorišnica" />
+  <city id="274899613772719038" name="Georgendorf " nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899618067686335" name="Jahringthal" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899622362653632" name="Monsberg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899626657620929" name="Schiltern" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899630952588226" name="Sankt Leonhard in den Windischen Büheln" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899635247555523" name="Kirchberg" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899639542522820" name="Winterdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899643837490117" name="Ternovetzdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274899648132457414" name="Wittmannsdorf" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274963222238387608" name="Naklas" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="274963252303158687" name="Egg bei Zirklach" nation="755" nation_uid="3242700309235" language="11" language_uid="47244640267" local_region="2000300413" local_region_uid="1900674110249904509" />
+  <city id="405886611568590777" name="Windthorst" language="11" language_uid="47244640267" local_region="2000300415" local_region_uid="2749855738137028991" />
+  <city id="4252781656772626597" name="Porto Re" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003133" local_region_uid="103092671260541501" latitude="45.160000" longitude="14.340000" inhabitants_range="4" altitude="18" weather="64002680" weather_uid="274889417520355960" />
+  <city id="8591037859429449578" name="Monticchio Polesano" nation="776" nation_uid="3332894622472" />
+  <city id="8591037962508664706" name="Loqua" nation="776" nation_uid="3332894622472" />
+  <city id="8591323191286858476" name="Porto Noumense" nation="776" nation_uid="3332894622472" language="15" language_uid="64424509455" local_region="24003134" local_region_uid="103092675555508798" />
+</cities>
